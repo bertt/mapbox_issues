@@ -18,3 +18,12 @@ Sample issue: https://bertt.github.io/mapbox_issues/relative_url/relative
 
 Workaround: use absolute url https://bertt.github.io/mapbox_issues/relative_url/absolute
 
+Conclusion: Absolute urls are in the tilejson specs
+
+3] Wrong triangles
+
+Sample issue: https://bertt.github.io/mapbox_issues/triangles_wrong/issue
+
+
+
+
