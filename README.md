@@ -27,5 +27,9 @@ Sample issue: https://bertt.github.io/mapbox_issues/triangles_wrong/issue
 https://github.com/mapbox/mapbox-gl-js/issues/13108
 
 
+4] Late loading
 
+Description: When loading terrain + glb model in style, the glb model appears, disappears and appears
+
+Sample issue:  https://bertt.github.io/mapbox_issues/glb_late_loading/issue
 
