@@ -24,6 +24,8 @@ Conclusion: Absolute urls are in the tilejson specs
 
 Sample issue: https://bertt.github.io/mapbox_issues/triangles_wrong/issue
 
+https://github.com/mapbox/mapbox-gl-js/issues/13108
+
 
 
 
