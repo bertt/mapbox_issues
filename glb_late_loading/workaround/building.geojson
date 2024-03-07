@@ -1,0 +1,10 @@
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [6.019865,50.754838]
+    },
+    "properties": {
+      "name": "Dam square"
+    }
+  }
